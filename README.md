@@ -6,7 +6,7 @@ I'm a Computer Science student at UQAM, passionate about software development an
 
 - **Languages:** Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React (beginner), Vanilla JS
-- **Tools & Platforms:** Vite, GitHub, Netlify, IntelliJ IDEA, BlueJ
+- **Tools & Platforms:** Vite, GitHub, Netlify, IntelliJ IDEA
 - **Other:** CI/CD pipelines, Web Development
 
 ## 🛠️ Projects
