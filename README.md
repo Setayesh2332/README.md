@@ -1,4 +1,5 @@
 # Hi there, I'm Setayesh! 👋
+![](https://komarev.com/ghpvc/?username=your-github-Setayesh2332)
 
 I'm a Computer Science student at UQAM, passionate about software development and constantly expanding my skill set. I enjoy working on projects that allow me to explore new technologies and challenge myself.
 
